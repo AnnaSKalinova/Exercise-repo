@@ -1,1 +1,3 @@
-Repo made for exercises. We resolved the conflict!
+# Exercise-repo
+Repo made for exercises.
+We resolved the conflict!
