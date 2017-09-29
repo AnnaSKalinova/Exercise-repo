@@ -1,4 +1,1 @@
-# Exercise-repo
-This project will contain...
-Repository made for exercises.
-Hello, again!!!
+Repo made for exercises. We resolved the conflict!
